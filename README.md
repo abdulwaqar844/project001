@@ -1,2 +1,2 @@
 # project001
- My first project - Deploying to project001_setup_adilaltaf.surge.sh
+ My first project - Deploying to http://project001_adilaltaf.surge.sh
